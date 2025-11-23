@@ -38,10 +38,10 @@ function About() {
         <div className="col-md-4 mb-4">
           <div className="p-4 border rounded shadow-sm h-100">
             <img
-              src="https://img.icons8.com/ios-filled/100/000000/rocket.png"
+              src="https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8b3VyJTIwdmlzaW9ufGVufDB8fDB8fHww"
               alt="Mission"
               className="mb-3"
-              style={{ width: "60px" }}
+              style={{ width: "100px" }}
             />
             <h4 className="fw-bold mb-3">Our Mission</h4>
             <p>
@@ -54,10 +54,9 @@ function About() {
         <div className="col-md-4 mb-4">
           <div className="p-4 border rounded shadow-sm h-100">
             <img
-              src="https://img.icons8.com/ios-filled/100/000000/eye.png"
-              alt="Vision"
+              src="https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dmlzaW9ufGVufDB8fDB8fHww"
               className="mb-3"
-              style={{ width: "60px" }}
+              style={{ width: "100px" }}
             />
             <h4 className="fw-bold mb-3">Our Vision</h4>
             <p>
@@ -70,10 +69,10 @@ function About() {
         <div className="col-md-4 mb-4">
           <div className="p-4 border rounded shadow-sm h-100">
             <img
-              src="https://img.icons8.com/ios-filled/100/000000/handshake.png"
+              src="https://media.istockphoto.com/id/2170991268/photo/values-word-cloud.webp?a=1&b=1&s=612x612&w=0&k=20&c=rHKqWyA37v8CZjMaYYRWvjEdneuy5Nf8Dwe0DSsuvkU="
               alt="Values"
               className="mb-3"
-              style={{ width: "60px" }}
+              style={{ width: "100px" }}
             />
             <h4 className="fw-bold mb-3">Our Values</h4>
             <p>

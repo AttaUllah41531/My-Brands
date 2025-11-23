@@ -8,7 +8,7 @@ function Nav() {
 
         {/* Brand Logo */}
         <Link className="navbar-brand fw-bold fs-3" to="/">
-          MyBrand
+          My Brands
         </Link>
 
         {/* Mobile Toggle */}
